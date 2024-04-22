@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482191796547",
+    "project_id": "showanddeleteimage",
+    "storage_bucket": "showanddeleteimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482191796547:android:b54b609f6ddc11c4e4a7f6",
+        "android_client_info": {
+          "package_name": "com.example.showanddeleteimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi0xmnRb6n4VBw_W9OW4MMCjBltJI5rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
